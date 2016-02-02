@@ -1,0 +1,21 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags CS_1
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 1.000000
+macro Age 0.440000
+macro Height 0.793000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.500000
+macro BodyProportions 0.500000
+background front Lebenslauffoto.png 0.853747714808 0.0533514022827 9.77335166931 0.23
+background enabled True
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
