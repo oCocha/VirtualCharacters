@@ -1,0 +1,75 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags CS_2
+face head-scale-depth-less-more -1.000000
+face nose-width1-min-max 0.560000
+face mouth-cupidsbow-width-min-max -0.186000
+face neck-scale-vert-more-less -0.160000
+face r-eye-push2-in-out -0.294000
+face mouth-lowerlip-height-min-max -1.000000
+face r-ear-wing-out-in 0.320000
+face r-eye-move-in-out 0.266000
+face nose-width2-min-max -0.334000
+face mouth-angles-up-down -0.240000
+face l-ear-wing-out-in 0.320000
+face neck-trans-vert-down-up -1.000000
+face chin-bones-in-out 0.146000
+face mouth-upperlip-height-min-max -1.000000
+face r-eye-move-up-down -0.854000
+face eyebrows-trans-depth-less-more -0.626000
+face forehead-trans-depth-forward-backward -0.146000
+face r-eye-corner1-up-down 0.240000
+face nose-volume-potato-point 0.174000
+face nose-scale-horiz-incr-decr -1.000000
+face l-eye-height1-min-max -0.746000
+face neck-scale-horiz-less-more -0.466000
+face eyebrows-trans-vert-less-more -0.294000
+face l-eye-push2-in-out -0.294000
+face r-eye-size-small-big 0.360000
+face mouth-trans-up-down -1.000000
+face head-scale-vert-more-less 0.146000
+face l-ear-flap-out-in 0.174000
+face mouth-lowerlip-volume-deflate-inflate 0.014000
+face mouth-upperlip-volume-deflate-inflate -0.106000
+face chin-prognathism-less-more 0.320000
+face nose-curve-convex-concave -0.094000
+face l-eye-move-up-down -0.854000
+face head-scale-horiz-less-more -0.214000
+face r-eye-height1-min-max -0.746000
+face mouth-lowerlip-ext-up-down -0.360000
+face r-ear-flap-out-in 0.174000
+face l-eye-corner1-up-down 0.240000
+face nose-point-width-less-more 1.000000
+face mouth-scale-horiz-incr-decr -1.000000
+face l-eye-move-in-out 0.266000
+face nose-nostril-width-min-max 0.400000
+face l-eye-size-small-big 0.360000
+face nose-nostrils-angle-up-down -0.106000
+face nose-septumangle-decr-incr 0.040000
+face nose-height-min-max 0.214000
+face chin-height-min-max 0.186000
+face mouth-philtrum-volume-increase-decrease -0.454000
+face l-eye-height3-min-max -0.426000
+face nose-greek-moregreek-lessgreek -1.000000
+face nose-trans-vert-up-down -1.000000
+face r-eye-height3-min-max -0.426000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 1.000000
+macro Age 0.440000
+macro Height 0.773000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.500000
+macro BodyProportions 0.500000
+background front Gesicht.png 1.04474272931 -0.313315868378 10.5800275803 0.2
+background enabled True
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
+subdivide True
