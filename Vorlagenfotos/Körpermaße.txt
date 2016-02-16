@@ -1,0 +1,26 @@
+Halsumfang:		37  cm
+Halslänge:		12  cm
+
+Oberarmlänge:		35  cm
+Oberarmumfang:		28  cm
+	
+Unterarmlänge:		31  cm
+Handgelenksumfang:	17  cm
+
+Brustabstand:		37  cm
+Brustumfang:		100 cm
+Unterbrustumfang:	93  cm
+Taillenumfang:		88  cm
+Nacken zu Hüfte:	44  cm
+Taille zu Hüfte:	20  cm
+Schulterabstand:	15  cm
+
+Hüftumfang:		98  cm
+
+Oberschenkellänge:	45  cm
+Oberschenkelumfang:	56  cm
+
+Unterschenkellänge:	56  cm
+Wadenumfang:		36  cm
+
+Fußgelenkumfang:	23  cm	 
